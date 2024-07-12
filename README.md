@@ -7,7 +7,7 @@
 - <b>C++</b>
   - [MIDI Keyboard](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
 - <b>Pygame</b>
-  - [Space Invaders OO](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Space Invaders](https://github.com/joshmadakor1/Sentinel-Lab)
 - <b>Matplotlib & Numpy</b>
   - [Basic graph generation](https://github.com/joshmadakor1/EncrypterPOC)
 
