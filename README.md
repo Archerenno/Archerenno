@@ -3,13 +3,13 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Website & Database Development (HTML, CSS, Flask & Jinja)</b>
-  - [Te Reo Dictionary](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Te Reo Dictionary](https://github.com/Archerenno/Te_Reo_Dictionary)
 - <b>C++</b>
-  - [MIDI Keyboard](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
+  - [MIDI Keyboard](https://github.com/Archerenno/MIDI_Keybord) 
 - <b>Pygame</b>
-  - [Space Invaders](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Space Invaders](https://github.com/Archerenno/Space_Invaders_Pygame)
 - <b>Matplotlib & Numpy</b>
-  - [Basic graph generation](https://github.com/joshmadakor1/EncrypterPOC)
+  - [Basic graph generation](https://github.com/Archerenno/Basic_Graph_Gen_From_CSV)
 
 <h2>🤖 AI Projects:</h2>
 
