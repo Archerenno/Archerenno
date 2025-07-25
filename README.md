@@ -1,19 +1,25 @@
-<h1>Hi, I'm Archie! <br/>Programmer, Student & AI Enthusiast
+<h1>Hi, I'm Archie! <br/>Programmer, Student & FinTech Enthusiast
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
+
+- <b>Fin Tech (Python, Yfinance, Binance API, BackTrader)</b>
+  - [TBOT](https://github.com/Archerenno/TBOT)
+  - [Stock Value Analysis](https://github.com/Archerenno/Stock-Value-Analysis)
+- <b>Game Development (JavaFX, Gradle, Maven, JUnit, Python)</b>
+  - [Route Runner](https://github.com/Archerenno/Route-Runner)
+  - [Space Invaders](https://github.com/Archerenno/Space_Invaders_Pygame)
 - <b>Website & Database Development (HTML, CSS, Flask & Jinja)</b>
   - [Te Reo Dictionary](https://github.com/Archerenno/Te_Reo_Dictionary)
-- <b>C++</b>
+- <b>Embedded Systems (C++, MIDI Library)</b>
   - [MIDI Keyboard](https://github.com/Archerenno/MIDI_Keybord) 
-- <b>Pygame</b>
-  - [Space Invaders](https://github.com/Archerenno/Space_Invaders_Pygame)
-- <b>Matplotlib & Numpy</b>
-  - [Basic graph generation](https://github.com/Archerenno/Basic_Graph_Gen_From_CSV)
 
-<h2>🤖 AI Projects:</h2>
+
+<h2>Certification:</h2>
 
 - <b>Completed BlueDot AI Safety Alignment Course June 2024</b>
+- <b>Currently working through AZ900 - Azure Fundamentals</b>
+
 
 <h2> 🤳 Connect with me:</h2>
 
