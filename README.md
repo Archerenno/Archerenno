@@ -1,31 +1,39 @@
-<h1>Hi, I'm Archie! <br/>Programmer, Student & FinTech Enthusiast
+# I'm Archer
 
-<h2>👨‍💻 Software Development Projects:</h2>
+Current Software Engineering Student at UC (graduating 2027), interested in:
 
+- Fintech
+- Cars
+- Cloud solutions architecture
+- Machine Learning
+- American Football (Go Steelers!)
+- Applications of AI within Cyber Security
 
-- <b>Fin Tech (Python, Yfinance, Binance API, BackTrader)</b>
-  - [TBOT](https://github.com/Archerenno/TBOT)
-  - [Stock Value Analysis](https://github.com/Archerenno/Stock-Value-Analysis)
-- <b>Game Development (JavaFX, Gradle, Maven, JUnit, Python)</b>
-  - [Route Runner](https://github.com/Archerenno/Route-Runner)
-  - [Space Invaders](https://github.com/Archerenno/Space_Invaders_Pygame)
-- <b>Website & Database Development (HTML, CSS, Flask & Jinja)</b>
-  - [Te Reo Dictionary](https://github.com/Archerenno/Te_Reo_Dictionary)
-- <b>Embedded Systems (C++, MIDI Library)</b>
-  - [MIDI Keyboard](https://github.com/Archerenno/MIDI_Keybord) 
+## Current status
 
+- Working as a CFO on ARRO, building consent software based out of Christchurch
+- In my free time also working on some basic applications such as:
+  - Website for Mum's business (doing it for the love of the game): [Scarlet Rose](https://scarletrose.co.nz/)
+  - Random route generator for my running. Hmu on Strava @Archer Simpson
+  - Deep Focus: a task manager application intertwined with ML capabilities to predict when you work best based on biometric data
+- Currently learning:
+  - How tf to run a business
+  - Advanced Cybersecurity
+  - ML and Deep Learning
 
-<h2>Certification:</h2>
+## Previous Software Development Projects
 
-- <b>Completed BlueDot AI Safety Alignment Course June 2024</b>
-- <b>Currently working through AZ900 - Azure Fundamentals</b>
+**Fin Tech (Python, yfinance, Binance API, Backtrader)**
 
+- [TBOT](https://github.com/Archerenno/TBOT)
+- [Stock Value Analysis](https://github.com/Archerenno/Stock-Value-Analysis)
 
-<h2> 🤳 Connect with me:</h2>
+## Certification
 
-[<img align="left" alt="ArcherSimpson | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="ArcherSimpson | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+- Completed BlueDot AI Safety Alignment Course, June 2024
 
+## 🤳 Connect with me
 
-[instagram]: https://www.instagram.com/archerenno
-[linkedin]: www.linkedin.com/in/archer-simpson-727740278
+[<img alt="Archer Simpson | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/archer-simpson-727740278
